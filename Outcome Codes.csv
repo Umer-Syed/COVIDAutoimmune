@@ -1,0 +1,600 @@
+DESCRIPTION,SNOMED CT CODE
+Myasthenia gravis,91637004
+Juvenile or adult myasthenia gravis,193207007
+Myasthenic syndrome due to hypothyroidism,193212008
+Myasthenic syndrome due to pernicious anaemia,193213003
+Myasthenic syndrome due to thyrotoxicosis,193214009
+Myasthenic syndrome due to diabetic amyotrophy,267604001
+Colitis gravis,64766004
+Junctional epidermolysis bullosa gravis of Herlitz,400140006
+Myasthenic syndrome due to another disorder,193209005
+Erb-Goldflam disease,91637004
+"Ehlers-Danlos syndrome, gravis",83470009
+Myasthenic syndrome due to pernicious anemia,193213003
+Myasthenia angiosclerotica,63491006
+Myasthenic syndrome due to other malignancy,193209005
+Myasthenia gravis NOS,91637004
+[X]Other myasthenic syndromes in neoplastic disease CE,91637004
+Myasthenic syndrome due to disease NOS,193209005
+[X]Myasthenic syndromes in endocrine diseases CE,91637004
+[X]Myasthenic syndromes/other diseases classified elsewhere,91637004
+Myasthenic syndrome due to botulism,398565003
+Myasthenic syndrome,56989000
+Myasthenic syndrome due to disease EC,193209005
+MG - Myasthenia gravis,91637004
+Generalised myasthenia,230686005
+Ocular myasthenia,230684008
+Myasthenic syndrome due to pernicious anaemia,193213003
+Congenital deficiency of intrinsic factor,234361004
+Biermer's congenital pernicious anaemia,234362006
+[RFC] Pernicious anaemia,9.06551E+14
+Addison's anaemia,84027009
+Biermer's anaemia,84027009
+Biermer's anemia,84027009
+Addisonian pernicious anaemia,84027009
+PA - Pernicious anaemia,84027009
+Addison's anemia,84027009
+Pernicious anemia,84027009
+Biermer congenital pernicious anemia,234362006
+Myasthenic syndrome due to pernicious anemia,193213003
+Addisonian pernicious anemia,84027009
+Pernicious anaemia,84027009
+Biermer's congenital pernicious anemia,234362006
+Guttate psoriasis,37042000
+H/O: psoriasis,161562002
+Psoriasis annularis,200962007
+Psoriasis diffusa,200964008
+Psoriasis geographica,200966005
+Psoriasis palmaris,200970002
+Psoriasis plantaris,200971003
+Pustular psoriasis,200973000
+Psoriasis universalis,200974006
+Erythrodermic psoriasis,200977004
+Scalp psoriasis,238608008
+Palmoplantar pustular psoriasis,27520001
+[RFC] Psoriasis,9.05681E+14
+Chronic large plaque psoriasis,402307000
+Other psoriasis,9014002
+Psoriasis NOS,9014002
+Other psoriasis and similar disorders,399937000
+Psoriasis and similar disorders NOS,9014002
+[X]Other psoriasis,9014002
+Psoriasis discoidea,200965009
+Psoriasis ostracea,200969003
+Psoriasis spondylitica,200956002
+Psoriasis area and severity index,8.66341E+14
+History of psoriasis,161562002
+Psoriasis vulgaris & (Chronic large plaque psoriasis),200975007
+Pustular psoriasis of the palms AND/OR soles,27520001
+Psoriasis area and severity index score,8.66341E+14
+Ostraceous psoriasis,200969003
+PASI (psoriasis area and severity index) score,8.66341E+14
+Discoid psoriasis,200965009
+Inverse psoriasis,238600001
+Rupioid psoriasis,200969003
+Nummular psoriasis,200965009
+Psoriasis guttata,37042000
+Exfoliative psoriasis,200977004
+Flexural psoriasis,238600001
+Flexural psoriasis,238600001
+Psoriasis gyrata,200967001
+Psoriasis punctata,200972005
+Psoriasis unspecified,9014002
+Acute palmoplantar pustular psoriasis,3533007
+Pustular psoriasis of palms and soles,27520001
+Psoriasis circinata,200963002
+Psoriasis vulgaris,200975007
+Chronic palmoplantar pustular psoriasis,27520001
+Psoriasis and similar disorders,9014002
+Chronic large plaque psoriasis,1.58383E+15
+Psoriasis And Eczema,1.0111E+13
+Psoriasis inveterata,200968006
+PASI - psoriasis area and severity index,8.66311E+14
+Actively extending plaque psoriasis,402311006
+Chronic stable plaque psoriasis,402310007
+Psoriasis area and severity index,8.66311E+14
+Unstable psoriasis,238601002
+Eczematised psoriasis,238603004
+Psoriasis-eczema overlap condition,238602009
+Chronic small plaque psoriasis,402308005
+Köbner psoriasis,238609000
+Psoriasis of nail,238604005
+Sebopsoriasis,25847004
+Psoriasis and similar disorders,200955003
+Felty's syndrome,57160007
+H/O: rheumatoid arthritis,161567008
+Polyneuropathy in rheumatoid arthritis,193180002
+Rheumatoid arthritis of cervical spine,201764007
+Rheumatoid arthritis of sternoclavicular joint,201767000
+Rheumatoid arthritis of acromioclavicular joint,201768005
+Rheumatoid arthritis of elbow,201769002
+Rheumatoid arthritis of wrist,201771002
+Rheumatoid arthritis of ankle,201779000
+Rheumatoid arthritis of subtalar joint,201780002
+Rheumatoid arthritis of talonavicular joint,201781003
+Flare of rheumatoid arthritis,201791009
+Rheumatoid arthritis - multiple joint,287006005
+Rheumatoid nodule,33719002
+Rheumatoid lung disease,398726004
+Rheumatoid lung,398726004
+Delivery of rehabilitation for rheumatoid arthritis,2.31041E+14
+Rheumatoid arthritis NOS,69896004
+Rheum. arth. - other joint,69896004
+Rheum. arth. - ankle/foot,69896004
+Rheum. arth. - knee joint,69896004
+Rheum. arth. - hip joint,69896004
+Rheum. arth. - hand joint,69896004
+Rheum. arth. - wrist joint,69896004
+Rheum. arth. - shoulder joint,69896004
+Rheum. arth. - multiple joint,69896004
+Rheum. arth. - wrist joint,201771002
+Rheum. arth. - hand joint,201772009
+Rheum. arth. - knee joint,201777003
+Rheum. arth. - ankle/foot,201779000
+Rheumatoid arthritis monitoring invitation,1.87556E+15
+Rheumatoid arthritis monitoring telephone invitation,1.87557E+15
+Rheumatoid arthritis monitoring verbal invitation,1.87558E+15
+Rheumatoid arthritis monitoring invitation first letter,1.87559E+15
+Rheumatoid arthritis monitoring invitation second letter,1.8756E+15
+Rheumatoid arthritis monitoring invitation third letter,1.87561E+15
+3D study - problems with rheumatoid arthritis management,1.93212E+15
+Rheumatoid arthritis annual review,8.47261E+14
+Rheumatoid arthritis monitoring invitation first letter,8.82401E+14
+Rheumatoid arthritis monitoring invitation third letter,8.82441E+14
+Rheumatoid arthritis monitoring verbal invitation,8.82461E+14
+Fibrosing alveolitis associated with rheumatoid arthritis,10713006
+[X]Other seropositive rheumatoid arthritis,239791005
+[X]Other specified rheumatoid arthritis,69896004
+"[X]Seropositive rheumatoid arthritis, unspecified",239791005
+Rheumatoid arthritis of distal radio-ulnar joint,201770001
+Rheumatoid arthritis of IP joint of toe,201785007
+Rheumatoid arthritis of lesser MTP joint,201784006
+Rheumatoid arthritis of MCP joint,201772009
+Rheumatoid lung,398726004
+Rheumatoid arthritis and other inflammatory polyarthropathy,69896004
+Rheumatoid arthritis of 1st MTP joint,201783000
+Exception reporting: rheumatoid arthritis quality indicators,8.05941E+14
+Except rheumatoid arthritis quality indicator: pt unsuitable,8.05961E+14
+Other rheumatoid arthritis of spine,9631008
+Rheumatoid arthritis of other tarsal joint,429192004
+Seropositive errosive rheumatoid arthritis,308143008
+Rheumatoid Arthritis Impact of Disease questionnaire,1.04831E+15
+Disease activity score 28 joint in rheumatoid arthritis,441870009
+Rheumatoid Arthritis Impact of Disease questionnaire score,1.04831E+15
+Chronic rheumatic arthritis,69896004
+Rheumatoid arthritis of multiple joints,287006005
+Rheumatoid arthritis of first metatarsophalangeal joint,201783000
+Rheumatoid arthritis of tibiofibular joint,201778008
+Rheumatoid arthritis of distal radioulnar joint,201770001
+Seropositive errosive rheumatoid arthritis,308143008
+Caplans syndrome,398640008
+"Rheumatoid arthritis, leucopenia AND splenomegaly",57160007
+"Rheumatoid arthritis, leukopenia AND splenomegaly",57160007
+Subcutaneous rheumatoid nodule,33719002
+RhA - Rheumatoid arthritis,69896004
+QOF (Quality and Outcomes Framework) rheumatoid arthritis quality indicator-related care invitation,1.11096E+15
+Rheumatoid arthritis monitoring invitation,8.82321E+14
+Rheumatoid arthritis monitoring telephone invitation,8.82481E+14
+Rheum. arth. - hip joint,201775006
+Rheum. arth. - elbow joint,69896004
+[RFC] Rheumatoid arthritis,9.09191E+14
+Rheumatoid arthritis of shoulder,201766009
+Rheumatoid arthritis of hip,201775006
+Rheumatoid arthritis of knee,201777003
+Rheumatoid arthritis of DIP joint of finger,201774005
+Rheumatoid arthritis of PIP joint of finger,201773004
+Rheumatoid arthritis of tibio-fibular joint,201778008
+Rheumatoid nodule,33719002
+Diffuse interstitial rheumatoid disease of lung,10713006
+Rheumatoid arthritis monitoring invitation second letter,8.82421E+14
+"Seropositive rheumatoid arthritis, unspecified",239791005
+Rheumatoid arthritis of sacro-iliac joint,201776007
+Caplan's syndrome,398640008
+[X]Rheumatoid arthritis+involvement/other organs or systems,239793008
+Except rheumatoid arthritis qual indicator: informed dissent,8.05981E+14
+RAID (Rheumatoid Arthritis Impact of Disease) questionnaire score,1.04831E+15
+RA - Rheumatoid arthritis,69896004
+History of rheumatoid arthritis,161567008
+Rheumatoid vasculitis,400054000
+Seronegative rheumatoid arthritis,239792003
+Myopathy due to rheumatoid arthritis,193250002
+Rheumatoid arthritis,69896004
+Rheumatoid arthritis of foot,429192004
+Disease activity score in rheumatoid arthritis,763259004
+Rheumatoid bursitis,84017003
+Chronic rheumatoid nodular fibrosis,33719002
+Felty syndrome,57160007
+Caplan's syndrome,398640008
+Myopathy due to Sjogren's disease,193253000
+Keratoconjunctivitis sicca,302896008
+KCS - Keratoconjunctivitis sicca,302896008
+Myopathy due to Sjögren's disease,193253000
+Sjogrens syndrome,83901003
+Lung disease with Sjögren disease,196137000
+Sjögren's syndrome,83901003
+Sjögren's disease,83901003
+Sjogren's syndrome,83901003
+Sicca (Sjogren's) syndrome,83901003
+Myopathy due to Sjogrens disease,193253000
+Sjögren syndrome,83901003
+Lung disease with Sjogren's disease,196137000
+Lung disease with Sjögren's disease,196137000
+Myopathy due to Sjögren disease,193253000
+Lupus erythematosus profundus,15084002
+Disseminated lupus erythematosus,55464009
+Lupus nephritis,68815009
+Systemic lupus erythematosus encephalitis,95644001
+Polyneuropathy in disseminated lupus erythematosus,193178008
+Myopathy due to disseminated lupus erythematosus,193248005
+Lupus erythematosus chronicus,200937007
+Lupus erythematosus migrans,200939005
+Drug-induced systemic lupus erythematosus,201436003
+Cerebral lupus,95644001
+Systemic lupus erythematosus encephalitis,1.72815E+15
+[X]Other local lupus erythematosus,7119001
+Systemic lupus erythematosus NOS,55464009
+[X]Other forms of systemic lupus erythematosus,55464009
+Systemic lupus erythematosus with organ or sys involv,239887007
+Lupus erythematosus NOS,200936003
+Synovial fluid: lupus erythematosus cells,167901007
+SCLE - Subacute cutaneous lupus erythematosus,239891002
+Systemic lupus erythematosus glomerulonephritis syndrome,68815009
+Cerebral systemic lupus erythematosus,95644001
+Lupus erythematosus (LE) cells present,165927006
+Subacute cutaneous lupus erythematosus,239891002
+Lupus erythematosus nodularis,200940007
+Lupus erythematosus tumidus,200941006
+Nephrotic syndrome in systemic lupus erythematosus,68815009
+SLE - Systemic lupus erythematosus,55464009
+Libman-Sacks disease,54072008
+Systemic lupus erythematosus with pericarditis,309762007
+Lupus erythematosus,200936003
+SACLE - Subacute cutaneous lupus erythematosus,239891002
+LE - Lupus erythematosus,200936003
+Libman-Sacks endocarditis,54072008
+Lupus erythematosus unguium mutilans,200942004
+Lung disease with systemic lupus erythematosus,196138005
+Systemic lupus erythematosus,55464009
+Lupus erythematosus cells present,165927006
+Type 1 diabetes mellitus with ulcer,190368000
+Type I diabetes mellitus maturity onset,190372001
+Type 1 diabetes mellitus maturity onset,190372001
+Unstable type I diabetes mellitus,290002008
+Unstable type 1 diabetes mellitus,290002008
+Type 1 diabetes mellitus without complication,313435000
+Type I diabetes mellitus with hypoglycaemic coma,314771006
+Type 1 diabetes mellitus with arthropathy,314893005
+Type I diabetes mellitus with arthropathy,314893005
+Type I diabetes mellitus,46635009
+Type 1 diabetes mellitus with persistent microalbuminuria,401110002
+Type I diabetes mellitus in remission,703137001
+Type 1 diabetes mellitus - poor control,444073006
+Type I diabetes mellitus - poor control,444073006
+Type I diabetes mellitus with neuropathic arthropathy,7.1771E+13
+Type 1 diabetes mellitus,46635009
+Type 1 diabetes mellitus - poor control,444073006
+Type 1 diabetes mellitus maturity onset,190372001
+Type 1 diabetes mellitus with arthropathy,314893005
+Type 1 diabetes mellitus with hypoglycaemic coma,314771006
+Type 1 diabetes mellitus with nephropathy,421893009
+Type 1 diabetes mellitus with neuropathic arthropathy,7.1771E+13
+Type 1 diabetes mellitus with polyneuropathy,713705003
+Type 1 diabetes mellitus with ulcer,190368000
+Type I diabetes mellitus with hypoglycaemic coma,314771006
+Type I diabetes mellitus with multiple complications,422228004
+Type I diabetes mellitus with renal complications,421893009
+Type I diabetes mellitus with ulcer,190368000
+Type I diabetes mellitus without complication,313435000
+Type I diabetes mellitus with multiple complications,422228004
+Type 1 diabetes mellitus with polyneuropathy,713705003
+Type 1 diabetes mellitus with nephropathy,421893009
+Type I diabetes mellitus with nephropathy,421893009
+Type 1 diabetes mellitus with persistent proteinuria,420514000
+Type I diabetes mellitus with persistent proteinuria,420514000
+Type I diabetes mellitus with persistent microalbuminuria,401110002
+Type I diabetes mellitus with ketoacidosis,420270002
+Type I diabetes mellitus with ketoacidotic coma,421075007
+Type I diabetes mellitus with exudative maculopathy,420486006
+Insulin dependent diabetes mellitus with hypoglycaemic coma,237632004
+Insulin dependent diabetes mellitus with arthropathy,39710007
+Unstable insulin dependent diabetes mellitus,11530004
+Type I diabetes mellitus with peripheral angiopathy,3.1211E+13
+Insulin dependent diabetes mellitus with arthropathy,39710007
+Insulin dependent diabetes mellitus with diabetic cataract,43959009
+Insulin dependent diabetes mellitus with hypoglycaemic coma,237632004
+Insulin dependent diabetes mellitus with mononeuropathy,230577008
+Insulin dependent diabetes mellitus with multiple complicatn,3.85041E+14
+Insulin dependent diabetes mellitus with polyneuropathy,49455004
+Insulin dependent diabetes mellitus with retinopathy,4855003
+Insulin dependent diab mell with neuropathic arthropathy,201724008
+Insulin dependent diab mell with peripheral angiopathy,421895002
+Insulin dependent diabetes maturity onset,73211009
+Insulin dependent diabetes mellitus,73211009
+IDDM-Insulin dependent diabetes mellitus,73211009
+Insulin dependent diabetes mellitus with multiple complicat,3.85041E+14
+Insulin dependent diabetes mellitus with retinopathy,4855003
+Insulin dependent diabetes mellitus with mononeuropathy,230577008
+Insulin dependent diabetes mellitus with polyneuropathy,49455004
+Insulin dependent diabetes mellitus with nephropathy,127013003
+Insulin dependent diab mell with peripheral angiopathy,421895002
+Type 1 diabetes mellitus with peripheral angiopathy,3.1211E+13
+Insulin dependent diab mell with neuropathic arthropathy,201724008
+Insulin dependent diabetes mellitus with ulcer,422183001
+Diabetic retinopathy associated with type I diabetes mellitus,420789003
+Type 1 diabetes mellitus uncontrolled,444073006
+Retinopathy co-occurrent and due to type 1 diabetes mellitus,420789003
+Peripheral circulatory disorder associated with type I diabetes mellitus,421365002
+Gastroparesis co-occurrent and due to type 1 diabetes mellitus,713702000
+Polyneuropathy due to type 1 diabetes mellitus,713705003
+Neuropathic arthropathy due to type 1 diabetes mellitus,7.1771E+13
+Disorder of eye co-occurrent and due to type 1 diabetes mellitus,739681000
+Insulin dependent diabetes mellitus with arthropathy,314893005
+Insulin dependent diabetes mellitus with ulcer,19429009
+Gangrene associated with type I diabetes mellitus,420825003
+Peripheral vascular disease due to type I diabetes,3.1211E+13
+Gangrene associated with type 1 diabetes mellitus,420825003
+Peripheral circulatory disorder associated with type 1 diabetes mellitus,421365002
+Diabetic oculopathy due to type 1 diabetes mellitus,739681000
+Exudative maculopathy co-occurrent and due to type 1 diabetes mellitus,420486006
+Persistent proteinuria associated with type I diabetes mellitus,420514000
+Brittle type 1 diabetes mellitus,290002008
+Polyneuropathy co-occurrent and due to type 1 diabetes mellitus,713705003
+Type 1 diabetes mellitus with hyperosmolar coma,190330002
+Type 1 diabetes mellitus with hypoglycemic coma,314771006
+Neurological disorder co-occurrent and due to type 1 diabetes mellitus,421468001
+Ketoacidotic coma in type I diabetes mellitus,421075007
+Renal disorder associated with type I diabetes mellitus,421893009
+Type I diabetes mellitus with hypoglycemic coma,314771006
+Kidney disorder associated with type 1 diabetes mellitus,421893009
+Type I diabetes mellitus uncontrolled,444073006
+Diabetic neuropathic arthropathy due to type 1 diabetes mellitus,7.1771E+13
+Labile type I diabetes mellitus,290002008
+Diabetic oculopathy due to type I diabetes mellitus,739681000
+Gastroparesis due to type 1 diabetes mellitus,713702000
+Neurological disorder associated with type 1 diabetes mellitus,421468001
+Exudative maculopathy associated with type 1 diabetes mellitus,420486006
+Diabetic cataract associated with type 1 diabetes mellitus,421920002
+Type 1 diabetes mellitus with multiple complications,422228004
+Type 1 diabetes mellitus with renal complications,421893009
+Type 1 diabetes mellitus with retinopathy,420789003
+Type I diabetes mellitus with diabetic cataract,421920002
+Type I diabetes mellitus with mononeuropathy,420918009
+Type I diabetes mellitus with neurological complications,421468001
+Type 1 diabetes mellitus with multiple complications,422228004
+Type 1 diabetes mellitus with retinopathy,420789003
+Type I diabetes mellitus with retinopathy,420789003
+Type 1 diabetes mellitus with exudative maculopathy,420486006
+Type I diabetes mellitus with gastroparesis,713702000
+Type I diabetes mellitus with ophthalmic complications,739681000
+Type 1 diabetes mellitus with gangrene,420825003
+Type 1 diabetes mellitus with gangrene,420825003
+Type 1 diabetes mellitus with diabetic cataract,421920002
+Type 1 diabetes mellitus with ophthalmic complications,739681000
+Exudative maculopathy with type 1 diabetes mellitus,420486006
+Disorder of eye with type 1 diabetes mellitus,739681000
+Gastroparesis with type 1 diabetes mellitus,713702000
+Mononeuropathy with type 1 diabetes mellitus,420918009
+Type 1 diabetes mellitus with mononeuropathy,420918009
+Type 1 diabetes mellitus with neurological complications,421468001
+Type I diabetes mellitus with gangrene,420825003
+Type 1 diabetes mellitus with neurological complications,421468001
+Neurological disorder with type 1 diabetes mellitus,421468001
+Type I diabetes mellitus with retinopathy,420789003
+Type 1 diabetes mellitus with gastroparesis,713702000
+Type 1 diabetes mellitus with renal complications,421893009
+Type 1 diabetic dietary review,7.54101E+14
+Type 1 diabetes mellitus with hypoglycaemic coma,314771006
+Type 1 diabetes mellitus with neuropathic arthropathy,7.1771E+13
+Unstable type I diabetes mellitus,290002008
+Type I diabetes mellitus,46635009
+Type I diabetes mellitus maturity onset,190372001
+Type I diabetes mellitus with neuropathic arthropathy,7.1771E+13
+Type I diabetes mellitus with polyneuropathy,713705003
+Type 1 diabetes mellitus with ketoacidotic coma,421075007
+Insulin dependent diabetes mellitus,73211009
+Unstable insulin dependent diabetes mellitus,11530004
+Insulin dependent diabetes mellitus with gangrene,422275004
+Insulin dependent diabetes mellitus with nephropathy,127013003
+Insulin dependent diabetes mellitus with gangrene,422275004
+Multiple complications of type I diabetes mellitus,422228004
+Insulin dependent diabetes mellitus with hypoglycaemic coma,314771006
+Brittle type I diabetes mellitus,290002008
+Mononeuropathy associated with type I diabetes mellitus,420918009
+Insulin dependent diabetes mellitus with hypoglycemic coma,314771006
+Diabetic retinopathy associated with type 1 diabetes mellitus,420789003
+Type 1 diabetes mellitus in remission,703137001
+Type I diabetes mellitus without complication,313435000
+Type I diabetes mellitus with neurological complications,421468001
+Type I diabetes mellitus with mononeuropathy,420918009
+Type I diabetes mellitus with ophthalmic complications,739681000
+Type 1 diabetes mellitus with diabetic cataract,421920002
+Type 1 diabetes mellitus with mononeuropathy,420918009
+Type 1 diabetes mellitus with ophthalmic complications,739681000
+Retinopathy with type 1 diabetes mellitus,420789003
+Unstable type 1 diabetes mellitus,290002008
+Type I diabetes mellitus - poor control,444073006
+Type I diabetes mellitus with arthropathy,314893005
+Type I diabetes mellitus with renal complications,421893009
+Type 1 diabetes mellitus with ketoacidosis,420270002
+Pre-existing type 1 diabetes mellitus in pregnancy,199223000
+Type 1 diabetes mellitus with peripheral angiopathy,3.1211E+13
+Insulin dependent diabetes mellitus - poor control,268519009
+Insulin dependent diabetes mellitus - poor control,268519009
+Type I diabetes mellitus with peripheral angiopathy,3.1211E+13
+Neurological disorder associated with type I diabetes mellitus,421468001
+Diabetic cataract associated with type I diabetes mellitus,421920002
+Exudative maculopathy associated with type I diabetes mellitus,420486006
+Type I diabetes mellitus with ulcer,190368000
+Type 1 diabetes mellitus,46635009
+Type 1 diabetes mellitus without complication,313435000
+Type I diabetes mellitus with nephropathy,421893009
+Type I diabetes mellitus with polyneuropathy,713705003
+Insulin dependent diabetes mellitus,73211009
+Insulin dependent diabetes maturity onset,73211009
+Insulin dependent diabetes mellitus with diabetic cataract,43959009
+Insulin dependent diabetes mellitus with ulcer,422183001
+Ketoacidosis in type I diabetes mellitus,420270002
+Disorder associated with type I diabetes mellitus,420868002
+Type I diabetes mellitus with diabetic cataract,421920002
+Type I diabetes mellitus with gangrene,420825003
+Mononeuropathy co-occurrent and due to type 1 diabetes mellitus,420918009
+Mononeuropathy associated with type 1 diabetes mellitus,420918009
+Vitiligo of eyelid,87666009
+Vitiligo,56727007
+Congenital coeliac disease,197478000
+Acquired coeliac disease,197479008
+Coeliac disease,396331005
+Coeliac disease monitoring invitation,7.50871E+14
+Coeliac disease monitoring telephone invitation,7.50891E+14
+Coeliac disease annual review declined,7.50911E+14
+Coeliac disease monitoring invitation second letter,7.52321E+14
+Coeliac disease monitoring,703970007
+Coeliac disease annual review,473213008
+Coeliac disease monitoring phone invite,1.74588E+15
+Coeliac disease monitoring,1.7477E+15
+Coeliac disease NOS,396331005
+Acquired celiac disease,197479008
+Celiac disease autoantibody profile positive,443718009
+Celiac disease monitoring,703970007
+Coeliac infantilism,45259000
+Celiac syndrome,396331005
+Infantile form of celiac disease,45259000
+Childhood coeliac disease,45259000
+Congenital celiac disease,197478000
+Infant celiac disease,45259000
+Celiac rickets,275404008
+Infantile form of coeliac disease,45259000
+Celiac disease annual review,473213008
+Childhood celiac disease,45259000
+CD - Celiac disease,396331005
+CS - Coeliac sprue,396331005
+CS - Celiac sprue,396331005
+Coeliac sprue,396331005
+Celiac disease,396331005
+Coeliac disease monitoring administration,1.74584E+15
+Coeliac disease monitoring 2nd letter,1.74586E+15
+Coeliac disease monitoring invitation third letter,7.52341E+14
+CCD - Childhood celiac disease,45259000
+Coeliac disease monitoring 3rd letter,1.74587E+15
+Coeliac disease annual review,1.74771E+15
+Coeliac disease monitoring invitation first letter,7.52301E+14
+Coeliac syndrome,396331005
+Celiac infantilism,45259000
+CD - Coeliac disease,396331005
+Coeliac disease autoantibody profile positive,443718009
+Autoantibody screening for coeliac disease positive,443718009
+Coeliac rickets,275404008
+Celiac sprue,396331005
+Autoantibody screening for celiac disease positive,443718009
+CCD - Childhood coeliac disease,45259000
+Infant coeliac disease,45259000
+Inflammatory bowel disease,24526004
+Crohn's disease,34000006
+Ulcerative colitis,64766004
+FH: Crohn's disease,160386006
+Orofacial Crohn's disease,196578009
+Regional enteritis of the jejunum,196976000
+Ulcerative ileocolitis,196987008
+Arthropathy in Crohn's disease,201728006
+FH: Ulcerative colitis,275129008
+H/O: ulcerative colitis,275549008
+Regional enteritis of the rectum,3815005
+Regional enteritis of the duodenum,56287005
+Regional enteritis of the large bowel,7620006
+Exacerbation of Crohn's disease of large intestine,414153008
+Exacerbation of ulcerative colitis,414156000
+Ulcerative pancolitis,444548001
+Regional enteritis - Crohn,34000006
+[RFC] Crohns disease,9.06051E+14
+[RFC] Ulcerative colitis,9.06191E+14
+Adverse reaction to Modulen IBD,1.0265E+15
+Granulomatous enteritis,34000006
+Crohn's disease of the small bowel NOS,56689002
+Regional enteritis NOS,34000006
+Other idiopathic proctocolitis,418130002
+Other idiopathic proctocolitis NOS,418130002
+Idiopathic proctocolitis NOS,64766004
+[X]Other Crohn's disease,34000006
+Crohn's disease NOS,34000006
+Idiopathic proctocolitis,64766004
+Ulcerative (chronic) ileocolitis,196987008
+Regional enteritis - Crohn's disease,34000006
+Regional enteritis of the colon,50440006
+Crohn's colitis,50440006
+Crohn's disease of the terminal ileum,196977009
+Management of IBD (inflammatory bowel disease),700104004
+Ulcerative proctocolitis NOS,295046003
+CD - Crohn's disease,34000006
+Family history: Crohn's disease,160386006
+Crohn disease of large bowel,7620006
+Granulomatous enteritis,34000006
+Crohn disease of small intestine,56689002
+Colitis gravis,64766004
+Crohn disease of duodenum,56287005
+Family history of Crohn's disease,160386006
+"Crohns disease, small intestine",56689002
+UC - Ulcerative colitis,64766004
+Crohn disease of terminal ileum,196977009
+Family history: Ulcerative colitis,275129008
+Ulcerative colitis confined to rectum,52231000
+UC - Ulcerative colitis confined to rectum,52231000
+"Crohns disease, large intestine",7620006
+Regional enteritis of rectum,3815005
+Crohn's proctitis,3815005
+Crohn disease of ileum,38106008
+Exacerbation of Crohn disease of large intestine,414153008
+Crohn's disease of duodenum,56287005
+IBD - Inflammatory bowel disease,24526004
+History of ulcerative colitis,275549008
+RE - regional enteritis,34000006
+Crohn's ileitis,38106008
+Family history: Crohn disease,160386006
+Crohn's disease of rectum,3815005
+Modulen IBD,6.55231E+14
+Arthropathy in ulcerative colitis,201727001
+Juvenile arthritis in Crohn's disease,201805000
+Crohn's disease of the ileum unspecified,38106008
+Regional enteritis of the small bowel,56689002
+Crohns disease,34000006
+Crohn's disease of oral soft tissues,196578009
+Regional enteritis of small intestine,56689002
+Exacerbation of Crohn disease of small intestine,414154002
+Management of inflammatory bowel disease,700104004
+Dietary education for inflammatory bowel disease,9.09671E+14
+Signposting to Crohn's and Colitis UK,1.05734E+15
+Crohn's disease of the large bowel NOS,7620006
+Ulcerative colitis and/or proctitis,295046003
+Regional enteritis,34000006
+Crohn's duodenitis,56287005
+Arthropathy in Crohn disease,201728006
+Juvenile arthritis in Crohn disease,201805000
+Crohn disease of rectum,3815005
+Crohn's disease of the ileum NOS,38106008
+[X]Other ulcerative colitis,64766004
+Oral Crohn's disease,196578009
+Exacerbation of Crohn's disease of small intestine,414154002
+Ulcerative proctocolitis,295046003
+Juvenile arthritis in ulcerative colitis,201807008
+Ulcerative (chronic) enterocolitis,235714007
+Crohn disease,34000006
+Family history of ulcerative colitis,275129008
+Mild chronic ulcerative colitis,78324009
+Crohn's disease activity index,273364009
+Acute ulcerative colitis,128600008
+Severe chronic ulcerative colitis,14311001
+History of inflammatory bowel disease,608844008
+Perianal Crohn's disease,235796008
+History of Crohns disease,1.12561E+14
+Graves' disease,353295004
+Toxic diffuse goitre NOS,267374005
+Graves' ophthalmopathy,276177000
+Toxic diffuse thyroid goitre,267374005
+Graves' dermopathy,237825005
+Graves' eye disease,276177000
+Diffuse toxic goitre,267374005
+Thyrotoxicosis with diffuse goiter,267374005
+Autoimmune myxoedema,237519003
+Pretibial myxoedema - hypothyroid,40930008
+Hypothyroidism with positive thyroid antibodies,237519003
+"Diabetes mellitus, Addison's disease and myxoedema",83728000
+Autoimmune hypothyroidism,237519003
