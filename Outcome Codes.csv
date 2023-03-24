@@ -97,7 +97,7 @@ Unstable psoriasis,238601002
 Eczematised psoriasis,238603004
 Psoriasis-eczema overlap condition,238602009
 Chronic small plaque psoriasis,402308005
-Köbner psoriasis,238609000
+KÃ¶bner psoriasis,238609000
 Psoriasis of nail,238604005
 Sebopsoriasis,25847004
 Psoriasis and similar disorders,200955003
@@ -208,18 +208,18 @@ Caplan's syndrome,398640008
 Myopathy due to Sjogren's disease,193253000
 Keratoconjunctivitis sicca,302896008
 KCS - Keratoconjunctivitis sicca,302896008
-Myopathy due to Sjögren's disease,193253000
+Myopathy due to SjÃ¶gren's disease,193253000
 Sjogrens syndrome,83901003
-Lung disease with Sjögren disease,196137000
-Sjögren's syndrome,83901003
-Sjögren's disease,83901003
+Lung disease with SjÃ¶gren disease,196137000
+SjÃ¶gren's syndrome,83901003
+SjÃ¶gren's disease,83901003
 Sjogren's syndrome,83901003
 Sicca (Sjogren's) syndrome,83901003
 Myopathy due to Sjogrens disease,193253000
-Sjögren syndrome,83901003
+SjÃ¶gren syndrome,83901003
 Lung disease with Sjogren's disease,196137000
-Lung disease with Sjögren's disease,196137000
-Myopathy due to Sjögren disease,193253000
+Lung disease with SjÃ¶gren's disease,196137000
+Myopathy due to SjÃ¶gren disease,193253000
 Lupus erythematosus profundus,15084002
 Disseminated lupus erythematosus,55464009
 Lupus nephritis,68815009
@@ -525,17 +525,14 @@ Crohn's disease of the terminal ileum,196977009
 Management of IBD (inflammatory bowel disease),700104004
 Ulcerative proctocolitis NOS,295046003
 CD - Crohn's disease,34000006
-Family history: Crohn's disease,160386006
 Crohn disease of large bowel,7620006
 Granulomatous enteritis,34000006
 Crohn disease of small intestine,56689002
 Colitis gravis,64766004
 Crohn disease of duodenum,56287005
-Family history of Crohn's disease,160386006
 "Crohns disease, small intestine",56689002
 UC - Ulcerative colitis,64766004
 Crohn disease of terminal ileum,196977009
-Family history: Ulcerative colitis,275129008
 Ulcerative colitis confined to rectum,52231000
 UC - Ulcerative colitis confined to rectum,52231000
 "Crohns disease, large intestine",7620006
@@ -548,7 +545,6 @@ IBD - Inflammatory bowel disease,24526004
 History of ulcerative colitis,275549008
 RE - regional enteritis,34000006
 Crohn's ileitis,38106008
-Family history: Crohn disease,160386006
 Crohn's disease of rectum,3815005
 Modulen IBD,6.55231E+14
 Arthropathy in ulcerative colitis,201727001
